@@ -1,2 +1,2 @@
-join=false
+join=true
 link=https://t.me/The_WalterBlack
